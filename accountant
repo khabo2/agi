@@ -1,6 +1,5 @@
-global clock
-local clock
-timeline observed
-timeline experienced
-
-total changes
+001 global clock
+002 local clock
+003 timeline observed
+004 timeline experienced
+005 total changes
