@@ -1,8 +1,0 @@
-(Context Goes Here!)
-
-start-state & goes toward end-state
-step in some direction for remaining steps:
-    update position by (forward function)
-    find direction using (position) for preceding positions:
-        change by (trajectory * -gradient) + each position
-        update direction by (backward function)
